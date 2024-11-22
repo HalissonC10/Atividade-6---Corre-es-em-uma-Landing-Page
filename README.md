@@ -44,10 +44,11 @@ Este projeto tem como objetivo aprimorar a landing page já existente no reposit
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/HalissonC10/Atividade-6---Corre-es-em-uma-Landing-Page.git
+   git clone https://github.com/HalissonC10/Atividade-6-Landing-Page
 
 2. **Acesse a pasta do projeto**
-  cd Atividade-6---Corre-es-em-uma-Landing-Page
+   ```bash
+  cd Atividade-6-Landing-Page
 
 3. **Abra o arquivo index.html em seu navegador**
   Você pode abrir o arquivo diretamente no navegador para visualizar o projeto funcionando.
