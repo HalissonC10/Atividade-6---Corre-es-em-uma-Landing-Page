@@ -48,7 +48,7 @@ Este projeto tem como objetivo aprimorar a landing page já existente no reposit
 
 2. **Acesse a pasta do projeto**
    ```bash
-  cd Atividade-6-Landing-Page
+     cd Atividade-6-Landing-Page
 
 3. **Abra o arquivo index.html em seu navegador**
   Você pode abrir o arquivo diretamente no navegador para visualizar o projeto funcionando.
